@@ -129,13 +129,21 @@ This file contains the summary metrics for each training dataset size.
 ## Project Structure
 
 project-root/
+
 ├── src/
+
 │   └── learning_curve.py
+
 ├── data/
+
 │   └── heart_disease_uci.csv
+
 ├── results/
+
 │   └── sample_size_summary.csv
+
 ├── .gitignore
+
 └── README.md
 
 ---
